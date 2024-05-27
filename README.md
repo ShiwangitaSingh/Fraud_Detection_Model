@@ -10,8 +10,7 @@ This model id developed for predicting fraudulent transactions for a financial c
 
 ### Data cleaning including missing values, outliers and multi-collinearity. 
     - Missing Values: Missing values in numerical columns were filled with the median value of each column.
-    - Outliers: The code for outlier removal using z-score was commented out. Alternatively, a boxplot visualization was used to 
-      detect outliers visually. Outlier removal was not explicitly performed in the provided code.
+    - Outliers: A boxplot visualization was used to detect outliers visually. Outlier removal was not explicitly performed in the code.
     - Multi-collinearity: Multi-collinearity was not addressed explicitly in the provided code. It refers to the situation where 
       predictor variables in a regression model are highly correlated with each other. Techniques like variance inflation 
       factor (VIF) or correlation matrix analysis can be used to identify and address multi-collinearity.
