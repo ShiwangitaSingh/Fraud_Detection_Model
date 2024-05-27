@@ -24,9 +24,14 @@ This model id developed for predicting fraudulent transactions for a financial c
 
 ### Model Performance:
     - The performance of the model was evaluated using various metrics including classification report, AUC-ROC score,
-      confusion matrix, and accuracy.
+      confusion matrix and accuracy.
     - These metrics provide insights into the model's ability to correctly classify fraudulent and non-fraudulent
       transactions, as well as its overall predictive performance.
+      AUC-ROC: 0.9997241886163819
+      Confusion Matrix:
+      [[1906233      89]
+      [    369    2095]]
+      Accuracy: 0.999760056915757
 
 ### Key Factors Predicting Fraudulent Customer:
     - These features include transaction characteristics, account balances, transaction differences, and other relevant 
