@@ -1,5 +1,5 @@
 # Fraud_Detection_Model
-This model id developed for predicting fraudulent transactions for a financial company and use insights from the model to develop an actionable plan.
+This model is developed for predicting fraudulent transactions for a financial company and use insights from the model to develop an actionable plan.
 
 ### Fraud Detection Model:
     - The fraud detection model is based on an XGBoost classifier, which is a type of gradient boosting algorithm.
